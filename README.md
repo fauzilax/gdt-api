@@ -8,7 +8,7 @@
 
 - change directory 
 
-  ``` cd gdt-api```
+  ``` $cd gdt-api```
  
 - Run The Program
 

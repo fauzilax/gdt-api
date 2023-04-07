@@ -4,7 +4,7 @@
 
 - Clone from this repository
 
-``` $git clone https://github.com/fauzilax/gdt-api.git ```
+  ``` $git clone https://github.com/fauzilax/gdt-api.git ```
 
 - change directory 
 
